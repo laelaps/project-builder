@@ -1,0 +1,14 @@
+{
+    "authors": [
+        {
+            "name": "Mateusz Charytoniuk",
+            "email": "mateusz.charytoniuk@gmail.com"
+        }
+    ],
+    "name": "laelaps/project-builder",
+    "description": "Universal PHP project builder strictly cooperating with Composer.",
+    "keywords": ["composer", "project", "builder"],
+    "require": {
+        "php": ">=5.4"
+    }
+}
